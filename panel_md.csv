@@ -1,0 +1,30 @@
+fcs_colname,antigen,fluorochrome,marker_class
+FSC-A,FSC-A,NA,none
+FSC-H,FSC-H,NA,none
+FSC-W,FSC-W,NA,none
+SSC-A,SSC-A,NA,none
+SSC-B-A,SSC-B-A,NA,none
+SSC-B-H,SSC-B-H,NA,none
+SSC-B-W,SSC-B-W,NA,none
+SSC-H,SSC-H,NA,none
+SSC-W,SSC-W,NA,none
+Comp-APC-A :: OVA-Tet,OVATet,APC,type
+Comp-APC-Fire 750-A :: CD3,CD3,APCFire750,none
+Comp-APC-Fire 810-A :: CD4,CD4,APCFire810,none
+Comp-Alexa Fluor 488-A :: TCF1,TCF1,AF488,type
+Comp-Alexa Fluor 532-A :: CD8,CD8,AF532,none
+Comp-Alexa Fluor 700-A :: CD101,CD101,AF700,type
+Comp-BV421-A :: Tbet,Tbet,BV421,type
+Comp-BV510-A :: CD62L,CD62L,BV510,type
+Comp-BV570-A :: CD44,CD44,BV570,type
+Comp-BV605-A :: CD45.1,CD45.1,BV605,none
+Comp-BV650-A :: CX3CR1,CX3CR1,BV650,type
+Comp-BV711-A :: CD45.2,CD45.2,BV711,none
+Comp-BV785-A :: CD69,CD69,BV785,type
+Comp-CellTrace Violet-A :: CTV,CTV,CTV,type
+Comp-PE-A :: Ly108,Ly108,PE,type
+Comp-PE-Cy7-A :: EOMES,EOMES,PeCy7,type
+Comp-PE-Dazzle594-A :: PD1,PD1,PeDazzle594,type
+Comp-PerCP-eFluor 710-A :: TIM3,TIM3,PerCPeFluor710,type
+Comp-Zombie NIR-A :: Viability,Viability,Zombie NIR,none
+Time,NA,Time,none

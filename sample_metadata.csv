@@ -1,0 +1,10 @@
+file_name,condition,patient_id,sample_id
+export_G1 BM_1_Transferred.fcs,BM,1,BM_1
+export_G10 LN_1_Transferred.fcs,LN,1,LN_1
+export_G11 LN_2_Transferred.fcs,LN,2,LN_2
+export_G12 LN_3_Transferred.fcs,LN,3,LN_3
+export_G2 BM_2_Transferred.fcs,BM,2,BM_2
+export_G3 BM_3_Transferred.fcs,BM,3,BM_3
+export_H1 TUM_1_Transferred.fcs,TUM,1,TUM_1
+export_H2 TUM_2_Transferred.fcs,TUM,2,TUM_2
+export_H3 TUM_3_Transferred.fcs,TUM,3,TUM_3

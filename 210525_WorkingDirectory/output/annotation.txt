@@ -1,0 +1,6 @@
+#name: Name
+#FCS_File: NA
+name	FCS_File
+BM	BM	1_bycondition.fcs
+LN	LN	2_bycondition.fcs
+TUM	TUM	3_bycondition.fcs
